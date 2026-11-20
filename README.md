@@ -1,9 +1,7 @@
 # Pembeneran Nilai Dynand
-<img width="1920" height="1080" alt="Screenshot 2026-09-07 130603" src="https://github.com/user-attachments/assets/d91c3726-5efd-47e6-93d8-e82df6a256de" />
-<img width="1920" height="1080" alt="Screenshot 2026-09-07 130609" src="https://github.com/user-attachments/assets/3505e5fc-2d53-47e5-bdb4-e31d68ed4ba7" />
-<img width="1920" height="1080" alt="Screenshot 2026-09-07 130557" src="https://github.com/user-attachments/assets/2a50807e-9a77-4a35-aa12-02630e2ed8bc" />
-<img width="1920" height="1080" alt="Screenshot 2026-09-07 130551" src="https://github.com/user-attachments/assets/f994caba-dc09-487d-98e7-d4a219eefd6e" />
-<img width="1920" height="1080" alt="Screenshot 2026-09-07 130546" src="https://github.com/user-attachments/assets/5bb296e2-297e-4962-8b78-04865e75c11f" />
-<img width="1920" height="1080" alt="Screenshot 2026-09-07 130539" src="https://github.com/user-attachments/assets/abbe40b5-5635-4eac-9fa8-d7ed2e879721" />
-
-<img width="773" height="460" alt="image" src="https://github.com/user-attachments/assets/f95b4583-ee24-4087-ae08-0ea882310bc5" />
+<img width="773" height="460" alt="image" src="https://github.com/user-attachments/assets/396211be-af40-46b6-ada6-14a596bd38b6" />
+<img width="769" height="461" alt="image" src="https://github.com/user-attachments/assets/d1ee57c7-e44e-474c-9c62-e7417efb9a27" />
+<img width="774" height="457" alt="image" src="https://github.com/user-attachments/assets/444dbef2-9824-421b-8859-414cfe3c7738" />
+<img width="775" height="465" alt="image" src="https://github.com/user-attachments/assets/f734f5a9-bdea-4784-a9cf-c731cc883f7c" />
+<img width="775" height="461" alt="image" src="https://github.com/user-attachments/assets/b20c2b7b-a37b-4719-8c94-d352653d7291" />
+<img width="774" height="459" alt="image" src="https://github.com/user-attachments/assets/a85290c9-8360-4aee-8a9b-611590cf7487" />
